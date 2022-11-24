@@ -6,5 +6,5 @@ You can either run it directly or `mv` it to `/bin/` and `chmod ugo+rw` to allow
 
 # Use
 With no parameters it will simply create a default_project in the current directory alongside a `main.cpp` and `main.h` file.
-Optional parameters allow for the naming of the initial `.cpp` and `.h` files (first argument) or toe specify a different directory
+Optional parameters allow for the naming of the initial `.cpp` and `.h` files (first argument) or to specify a different directory
 to create the project inside of (second argument).
